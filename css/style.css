@@ -303,7 +303,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-repeat: no-repeat;
   background-image:url(../images/180.JPG);
 		@media only screen and (max-width: 600px) {
-			bbackground-image:url(../images/180Cellphone.JPG);
+			bbackground-image:url(../images/180Cellphone\ -\ Copy.JPG);
 		};
 }
 .fh5co-cover {
