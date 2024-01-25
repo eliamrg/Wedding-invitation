@@ -225,6 +225,20 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff !important;
 }
 
+.evento{
+  
+  background-image:url(../images/180.JPG);
+		@media only screen and (max-width: 600px) {
+			bbackground-image:url(../images/180Cellphone\ -\ Copy.JPG);
+		};
+    
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100%;
+  
+}
+
 #fh5co-counter,
 #fh5co-event,
 .fh5co-bg {
@@ -299,12 +313,12 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .evento{
-  background-size: cover;
-  background-repeat: no-repeat;
+  
   background-image:url(../images/180.JPG);
 		@media only screen and (max-width: 600px) {
 			bbackground-image:url(../images/180Cellphone\ -\ Copy.JPG);
 		};
+  
 }
 .fh5co-cover {
   background-image:url(../images/027.JPG);
