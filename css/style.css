@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .evento{
   
-  background-image:url(../images/180.JPG);
+  background-image:url(../images/180\ Completa.JPG);
 		@media only screen and (max-width: 600px) {
 			bbackground-image:url(../images/180Cellphone\ -\ Copy.JPG);
 		};
